@@ -24,12 +24,12 @@ public class CodeGenerator {
     /**
      * modular 名字
      */
-  //  public static final String MODULAR_NAME = "";
+    public static final String MODULAR_NAME = "";
 
     /**
      * 基本路径
      */
-   // public static final String SRC_MAIN_JAVA = "src/main/java/";
+    public static final String SRC_MAIN_JAVA = "src/main/java/";
 
     /**
      * 作者
